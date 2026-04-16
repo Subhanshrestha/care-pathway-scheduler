@@ -1,6 +1,6 @@
 # Care Pathway Scheduler
 
-Patient scheduling tool for United Theranostics. Takes a configurable care pathway
+Patient scheduling tool. Takes a configurable care pathway
 (sequence of resources with durations) and a day's blocked time slots, then finds
 the earliest window where the full pathway fits.
 
